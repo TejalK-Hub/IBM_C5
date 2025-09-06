@@ -1,0 +1,33 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data dumps (large files, optional — remove if you want to keep data in repo)
+*.csv
+*.tsv
+*.xls
+*.xlsx
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
